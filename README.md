@@ -152,7 +152,7 @@ This project is for portfolio demonstration purposes. Data sourced from publicly
 
 ---
 
-**Author**: [Hilda Posada]  
+**Author**: Hilda Posada  
 **Project Type**: Data Analysis Portfolio Project  
 **Completion Date**: September 2025  
 **Tools**: Octoparse, SQLite, Tableau, SQL
