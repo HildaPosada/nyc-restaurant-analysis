@@ -104,12 +104,7 @@ restaurant-analysis/
 │   ├── processed/restaurant_analysis.csv
 │   └── database/restaurant_analysis.db
 ├── sql/
-│   ├── schema.sql
-│   ├── data_cleaning.sql
-│   └── analysis_queries.sql
-├── docs/
-│   ├── data_dictionary.md
-│   └── methodology.md
+│   └── schema.sql
 └── README.md
 ```
 
